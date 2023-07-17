@@ -1,0 +1,141 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &4183709049783269371
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1825940360265232426, guid: 200d8f12ba492a047b5130e890b7713e, type: 3}
+      propertyPath: m_SpriteTilingProperty.pivot.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1825940360265232426, guid: 200d8f12ba492a047b5130e890b7713e, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.x
+      value: 19.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1825940360265232426, guid: 200d8f12ba492a047b5130e890b7713e, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.y
+      value: 16.37
+      objectReference: {fileID: 0}
+    - target: {fileID: 1825940360265232426, guid: 200d8f12ba492a047b5130e890b7713e, type: 3}
+      propertyPath: m_Points.m_Paths.Array.data[0].Array.data[1].x
+      value: -3.0269165
+      objectReference: {fileID: 0}
+    - target: {fileID: 1825940360265232426, guid: 200d8f12ba492a047b5130e890b7713e, type: 3}
+      propertyPath: m_Points.m_Paths.Array.data[0].Array.data[1].y
+      value: -3.1564684
+      objectReference: {fileID: 0}
+    - target: {fileID: 3436331090691652322, guid: 200d8f12ba492a047b5130e890b7713e, type: 3}
+      propertyPath: m_Constraints
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3436331090691652324, guid: 200d8f12ba492a047b5130e890b7713e, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3436331090691652324, guid: 200d8f12ba492a047b5130e890b7713e, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3436331090691652324, guid: 200d8f12ba492a047b5130e890b7713e, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3436331090691652324, guid: 200d8f12ba492a047b5130e890b7713e, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.076
+      objectReference: {fileID: 0}
+    - target: {fileID: 3436331090691652324, guid: 200d8f12ba492a047b5130e890b7713e, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 4.242
+      objectReference: {fileID: 0}
+    - target: {fileID: 3436331090691652324, guid: 200d8f12ba492a047b5130e890b7713e, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3436331090691652324, guid: 200d8f12ba492a047b5130e890b7713e, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.9063079
+      objectReference: {fileID: 0}
+    - target: {fileID: 3436331090691652324, guid: 200d8f12ba492a047b5130e890b7713e, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3436331090691652324, guid: 200d8f12ba492a047b5130e890b7713e, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3436331090691652324, guid: 200d8f12ba492a047b5130e890b7713e, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.42261827
+      objectReference: {fileID: 0}
+    - target: {fileID: 3436331090691652324, guid: 200d8f12ba492a047b5130e890b7713e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3436331090691652324, guid: 200d8f12ba492a047b5130e890b7713e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3436331090691652324, guid: 200d8f12ba492a047b5130e890b7713e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 50
+      objectReference: {fileID: 0}
+    - target: {fileID: 3436331090691652325, guid: 200d8f12ba492a047b5130e890b7713e, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: e8e8670b43eacfe49861ed4ef03f7737, type: 3}
+    - target: {fileID: 3436331090691652325, guid: 200d8f12ba492a047b5130e890b7713e, type: 3}
+      propertyPath: m_Color.a
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3436331090691652325, guid: 200d8f12ba492a047b5130e890b7713e, type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3436331090691652325, guid: 200d8f12ba492a047b5130e890b7713e, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3436331090691652325, guid: 200d8f12ba492a047b5130e890b7713e, type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3436331090691652325, guid: 200d8f12ba492a047b5130e890b7713e, type: 3}
+      propertyPath: m_SortingLayer
+      value: -2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3436331090691652325, guid: 200d8f12ba492a047b5130e890b7713e, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 872229417
+      objectReference: {fileID: 0}
+    - target: {fileID: 3436331090691652334, guid: 200d8f12ba492a047b5130e890b7713e, type: 3}
+      propertyPath: m_Name
+      value: Comet
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 1825940360265232426, guid: 200d8f12ba492a047b5130e890b7713e, type: 3}
+  m_SourcePrefab: {fileID: 100100000, guid: 200d8f12ba492a047b5130e890b7713e, type: 3}
+--- !u!1 &1567193147659078933 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3436331090691652334, guid: 200d8f12ba492a047b5130e890b7713e, type: 3}
+  m_PrefabInstance: {fileID: 4183709049783269371}
+  m_PrefabAsset: {fileID: 0}
+--- !u!58 &91461495728865188
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1567193147659078933}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: -5.9836054, y: -4.8578234}
+  serializedVersion: 2
+  m_Radius: 2.9165561
